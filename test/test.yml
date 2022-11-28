@@ -1,3 +1,4 @@
 spring:
-  profiles: local
+  profiles: alpha
   message: Hello Spring Cloud Microservice Architecture
+  region: kr-1
