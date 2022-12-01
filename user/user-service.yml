@@ -1,6 +1,4 @@
 spring:
-  profiles:
-    name: user-service
   application:
     name: user-service
   datasource:
